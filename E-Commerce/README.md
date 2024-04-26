@@ -19,7 +19,7 @@
 > How to install
 
 ```
-$ git clone https://github.com/james-muriithi/e-shop.git
+$ git clone https://github.com/Umaradigun/E-Commerce.git
 $ npm install
 $ npm start
 ```
